@@ -1,4 +1,5 @@
-
+//Voting System
+//Created by:- SHAHID & DRAWESH
 #include<stdlib.h>
 #include<stdio.h>
 #include<string.h>
