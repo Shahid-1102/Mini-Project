@@ -63,7 +63,7 @@ void main()
     printf("Enter your password:\n");
     scanf("%s",password);
 
-    if(strcmp(username,"group6")==0){
+    if(strcmp(username,"admin")==0){
         if(strcmp(password,"123")==0){
 
         printf("\nWelcome.Login Success!");
